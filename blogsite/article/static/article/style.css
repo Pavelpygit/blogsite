@@ -4,15 +4,8 @@ header h1 {
     text-align: center;
     background: url("harvest.jpg") left / auto 100% no-repeat;
 }
+
 nav {
     font-size: 20pt;
     width: 150px;
-    float: left;
-}
-nav a {
-    display: block;
-    margin: 10px 0px;
-}
-section {
-    margin-left: 170px;
 }
